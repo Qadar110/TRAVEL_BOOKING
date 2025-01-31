@@ -1,0 +1,4 @@
+mkdir travel_booking_api
+cd travel_booking_api
+npm init -y
+npm install express mongoose bcryptjs jsonwebtoken dotenv express-validator morgan cors 
